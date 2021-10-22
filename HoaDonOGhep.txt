@@ -1,0 +1,9 @@
+Tiền Thuê trọ của khách hàng :
+Thuê : Ghép 
+Họ và Tên : 1
+Số Người ở Ghép : 2
+Ngày Bắt Đầu Thuê : Fri Oct 15 00:00:00 ICT 2021
+Thời Hạn Thuê : 3 tháng 
+Tiền Dịch Vụ dành cho mỗi người : 
+Tiền Thuê + Tiền Điện + Tiền Nước + 100K(Tiền Vệ Sinh) : 
+3150.0Nghìn Đồng
